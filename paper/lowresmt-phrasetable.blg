@@ -1,0 +1,45 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: lowresmt-phrasetable.aux
+The style file: acl.bst
+Database file #1: lowresmt-phrasetable.bib
+You've used 21 entries,
+            2490 wiz_defined-function locations,
+            858 strings with 15730 characters,
+and the built_in function-call counts, 9361 in all, are:
+= -- 942
+> -- 383
+< -- 9
++ -- 133
+- -- 130
+* -- 636
+:= -- 1441
+add.period$ -- 86
+call.type$ -- 21
+change.case$ -- 148
+chr.to.int$ -- 21
+cite$ -- 21
+duplicate$ -- 445
+empty$ -- 760
+format.name$ -- 158
+if$ -- 2037
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 129
+num.names$ -- 63
+pop$ -- 208
+preamble$ -- 1
+purify$ -- 170
+quote$ -- 0
+skip$ -- 337
+stack$ -- 0
+substring$ -- 369
+swap$ -- 133
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 168
+warning$ -- 0
+while$ -- 64
+width$ -- 24
+write$ -- 294

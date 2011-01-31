@@ -1,0 +1,167 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Brown \bgroup et al.\egroup }1993]{Brown:1993}
+Peter Brown, Stephen {Della Pietra}, Vincent {Della Pietra}, and Robert Mercer.
+\newblock 1993.
+\newblock The mathematics of machine translation: Parameter estimation.
+\newblock {\em Computational Linguistics}, 19(2):263--311, June.
+
+\bibitem[\protect\citename{Callison-Burch \bgroup et al.\egroup
+  }2010]{callisonburch-EtAl:2010:WMT}
+Chris Callison-Burch, Philipp Koehn, Christof Monz, Kay Peterson, Mark
+  Przybocki, and Omar Zaidan.
+\newblock 2010.
+\newblock Findings of the 2010 joint workshop on statistical machine
+  translation and metrics for machine translation.
+\newblock In {\em Proceedings of the Joint Fifth Workshop on Statistical
+  Machine Translation and MetricsMATR}, pages 17--53, Uppsala, Sweden, July.
+  Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Chiang}2005]{Chiang:2005}
+David Chiang.
+\newblock 2005.
+\newblock A hierarchical phrase-based model for statistical machine
+  translation.
+\newblock In {\em Proc. of the Annual Meeting of the Association for
+  Computational Linguistics (ACL)}.
+
+\bibitem[\protect\citename{DeNero and Klein}2007]{DeNero07}
+John DeNero and Dan Klein.
+\newblock 2007.
+\newblock Tailoring word alignments to syntactic machine translation.
+\newblock In {\em Proceedings of the 45th Annual Meeting of the Association for
+  Computational Linguistics (ACL-2007)}, Prague, Czech Republic.
+
+\bibitem[\protect\citename{Fung and Yee}1998]{Fung:1998}
+Pascale Fung and Lo~Yuen Yee.
+\newblock 1998.
+\newblock An {IR} approach for translating new words from nonparallel,
+  comparable texts.
+\newblock In {\em 36th Annual Meeting of the Association for Computational
+  Linguistics and 17th International Conference on Computational Linguistics
+  (ACL-CoLing-1998)}, pages 414--420.
+
+\bibitem[\protect\citename{Garera and Yarowsky}2008]{garera08a}
+Nikesh Garera and David Yarowsky.
+\newblock 2008.
+\newblock Translating compounds by learning component gloss translation models
+  via multiple languages.
+\newblock In {\em Proceedings of the International Joint Conference on Natural
+  Language Processing}, pages 403--410.
+
+\bibitem[\protect\citename{Haghighi \bgroup et al.\egroup }2008]{Haghighi:2008}
+Aria Haghighi, Percy Liang, Taylor Berg-Kirkpatrick, and Dan Klein.
+\newblock 2008.
+\newblock Learning bilingual lexicons from monolingual corpora.
+\newblock In {\em Proc. of the Annual Meeting of the Association for
+  Computational Linguistics (ACL)}.
+
+\bibitem[\protect\citename{Klementiev and Roth}2006]{Klementiev:2006b}
+Alexandre Klementiev and Dan Roth.
+\newblock 2006.
+\newblock Weakly supervised named entity transliteration and discovery from
+  multilingual comparable corpora.
+\newblock In {\em Proceedings of the 21st International Conference on
+  Computational Linguistics and 44th Annual Meeting of the Association for
+  Computational Linguistics (ACL-CoLing-2006)}.
+
+\bibitem[\protect\citename{Klementiev \bgroup et al.\egroup
+  }2011]{KlementievACL2011}
+Alexandre Klementiev, Ann Irvine, and Chris Callison-Burch.
+\newblock 2011.
+\newblock {Toward Statistical Machine Translation without Parallel Corpora}.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies}. Association for
+  Computational Linguistics, June.
+
+\bibitem[\protect\citename{Koehn and Knight}2002]{Koehn:2002}
+Philipp Koehn and Kevin Knight.
+\newblock 2002.
+\newblock Learning a translation lexicon from monolingual corpora.
+\newblock In {\em ACL Workshop on Unsupervised Lexical Acquisition}.
+
+\bibitem[\protect\citename{Koehn \bgroup et al.\egroup }2003]{Koehn:2003}
+Philipp Koehn, Franz~Josef Och, and Daniel Marcu.
+\newblock 2003.
+\newblock Statistical phrase-based translation.
+\newblock In {\em Proceedings of the Human Language Technology Conference of
+  the North American chapter of the Association for Computational Linguistics
+  (HLT/NAACL-2003)}, pages 48--54.
+
+\bibitem[\protect\citename{Koehn \bgroup et al.\egroup }2007]{Moses}
+Philipp Koehn, Hieu Hoang, Alexandra Birch, Chris Callison-Burch, Marcello
+  Federico, Nicola Bertoldi, Brooke Cowan, Wade Shen, Christine Moran, Richard
+  Zens, Chris Dyer, Ondrej Bojar, Alexandra Constantin, and Evan Herbst.
+\newblock 2007.
+\newblock Moses: Open source toolkit for statistical machine translation.
+\newblock In {\em Proceedings of the ACL-2007 Demo and Poster Sessions},
+  Prague, Czech Republic.
+
+\bibitem[\protect\citename{Koehn}2005]{Koehn:2005}
+Philipp Koehn.
+\newblock 2005.
+\newblock Europarl: A parallel corpus for statistical machine translation.
+\newblock In {\em Proc. of the Machine Translation Summit}.
+
+\bibitem[\protect\citename{Mimno \bgroup et al.\egroup }2009]{Mimno:2009}
+David Mimno, Hanna Wallach, Jason Naradowsky, David Smith, and Andrew McCallum.
+\newblock 2009.
+\newblock Polylingual topic models.
+\newblock In {\em Proc. of the Conference on Empirical Methods in Natural
+  Language Processing (EMNLP)}.
+
+\bibitem[\protect\citename{Munteanu and Marcu}2006]{Munteanu:2006}
+Dragos~Stefan Munteanu and Daniel Marcu.
+\newblock 2006.
+\newblock Extracting parallel sub-sentential fragments from non-parallel
+  corpora.
+\newblock In {\em Proc. of the Annual Meeting of the Association for
+  Computational Linguistics (ACL)}, pages 81--88.
+
+\bibitem[\protect\citename{Och}2002]{Och:2002}
+Franz~Joseph Och.
+\newblock 2002.
+\newblock {\em Statistical Machine Translation: From Single-Word Models to
+  Alignment Templates.}
+\newblock {Ph.D.} thesis, RWTH Aachen.
+
+\bibitem[\protect\citename{Rapp}1995]{Rapp:1995}
+Reinhard Rapp.
+\newblock 1995.
+\newblock Identifying word translations in non-parallel texts.
+\newblock In {\em 33rd Annual Meeting of the Association for Computational
+  Linguistics (ACL-1995)}, pages 320--322.
+
+\bibitem[\protect\citename{Rapp}1999]{Rapp:1999}
+Reinhard Rapp.
+\newblock 1999.
+\newblock Automatic identification of word translations from unrelated
+  {English} and {German} corpora.
+\newblock In {\em Proc. of the Annual Meeting of the Association for
+  Computational Linguistics (ACL)}, pages 519--526.
+
+\bibitem[\protect\citename{Schafer and Yarowsky}2002]{Schafer:2002}
+Charles Schafer and David Yarowsky.
+\newblock 2002.
+\newblock Inducing translation lexicons via diverse similarity measures and
+  bridge languages.
+\newblock In {\em Proc. of the Annual Conference on Computational Natural
+  Language Learning (CoNLL)}, pages 146--152.
+
+\bibitem[\protect\citename{Smith \bgroup et al.\egroup }2010]{Smith2010}
+Jason~R. Smith, Chris Quirk, and Kristina Toutanova.
+\newblock 2010.
+\newblock Extracting parallel sentences from comparable corpora using document
+  level alignment.
+\newblock In {\em Proc. of the Annual Meeting of the Association for
+  Computational Linguistics (ACL)}, pages 403--411.
+
+\bibitem[\protect\citename{Uszkoreit \bgroup et al.\egroup
+  }2010]{Uszkoreit:2010}
+Jakob Uszkoreit, Jay~M. Ponte, Ashok~C. Popat, and Moshe Dubiner.
+\newblock 2010.
+\newblock Large scale parallel document mining for machine translation.
+\newblock In {\em Proc. of the International Conference on Computational
+  Linguistics (COLING)}.
+
+\end{thebibliography}
